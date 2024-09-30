@@ -1,4 +1,5 @@
 ## Hi there 👋
+Oi, meu nome é Raisa, tenho 15 anos, e agora eu estou na aula de pensamento computacional.
 
 <!--
 **Raisa-Eduarda/Raisa-Eduarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
